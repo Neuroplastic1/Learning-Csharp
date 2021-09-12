@@ -1,2 +1,2 @@
-# Learning-Csharp
+# Learning-C#
 Learning Csharp on Codecademy
