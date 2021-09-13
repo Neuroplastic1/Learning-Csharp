@@ -10,14 +10,16 @@ namespace DefineAMethod
     
     static void Main(string[] args)
     {
-      //Call the external method in Main() and run the code
-      VisitPlanets();
+      //Call the external method in Main() with appropriate param and run the code
+      VisitPlanets(3);
+      VisitPlanets(4);
+      VisitPlanets(5);
     }
     //Define a method named VisitPlanets() outside of the Main() method and run the code.
     //Since Main() is already a method, we’ll define our own methods outside of Main().
-    static void VisitPlanets()
+    static void VisitPlanets(int numberOfPlanets)
     {
-      Console.WriteLine("“You visited many new planets…” ");
+      Console.WriteLine($"You visited {numberOfPlanets} new planets...");
     }
   }
 }
