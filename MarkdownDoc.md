@@ -1,4 +1,4 @@
-##Data types and variables
+## Data types and variables
 
 Lesson Data Types and Variables
 Lesson Working with Numbers
@@ -7,7 +7,7 @@ Lesson Working with Text
 Project Mad Libs
 Project Money Maker
 
-##Logic and conditionals
+## Logic and conditionals
 
 Lesson Understanding Logic in C#
 Lesson Conditional Statements
@@ -15,7 +15,7 @@ Lesson Conditional Statements
 Project Password Checker
 Project Choose Your Own Adventure
 
-##Methods
+## Methods
 
 Lesson Method Calls and Input
 Lesson Method Output
@@ -25,10 +25,10 @@ Project Exquisite Corpse
 
 Lesson Alternate Expressions
 
-##
+## Arrays & Loops
 
-Lesson Arrays
-| Concept | Description |
+
+| Array Stuff | 🏄🏽‍♂️ |
 | --- | --- |
 | intro | link |
 | Array Length | link |
