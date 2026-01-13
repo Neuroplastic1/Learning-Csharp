@@ -1,0 +1,1 @@
+This repository is dedicated to learning and exploring the C# programming language. It includes various tutorials, projects, and code snippets aimed at helping both beginners and intermediates grow their skills. The primary programming language is C#.
